@@ -1,0 +1,14 @@
+C:\projects\Striped Yellow Belt\kata 2\bin\Debug\net8.0\kata 2.exe
+C:\projects\Striped Yellow Belt\kata 2\bin\Debug\net8.0\kata 2.deps.json
+C:\projects\Striped Yellow Belt\kata 2\bin\Debug\net8.0\kata 2.runtimeconfig.json
+C:\projects\Striped Yellow Belt\kata 2\bin\Debug\net8.0\kata 2.dll
+C:\projects\Striped Yellow Belt\kata 2\bin\Debug\net8.0\kata 2.pdb
+C:\projects\Striped Yellow Belt\kata 2\obj\Debug\net8.0\kata 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Striped Yellow Belt\kata 2\obj\Debug\net8.0\kata 2.AssemblyInfoInputs.cache
+C:\projects\Striped Yellow Belt\kata 2\obj\Debug\net8.0\kata 2.AssemblyInfo.cs
+C:\projects\Striped Yellow Belt\kata 2\obj\Debug\net8.0\kata 2.csproj.CoreCompileInputs.cache
+C:\projects\Striped Yellow Belt\kata 2\obj\Debug\net8.0\kata 2.dll
+C:\projects\Striped Yellow Belt\kata 2\obj\Debug\net8.0\refint\kata 2.dll
+C:\projects\Striped Yellow Belt\kata 2\obj\Debug\net8.0\kata 2.pdb
+C:\projects\Striped Yellow Belt\kata 2\obj\Debug\net8.0\kata 2.genruntimeconfig.cache
+C:\projects\Striped Yellow Belt\kata 2\obj\Debug\net8.0\ref\kata 2.dll

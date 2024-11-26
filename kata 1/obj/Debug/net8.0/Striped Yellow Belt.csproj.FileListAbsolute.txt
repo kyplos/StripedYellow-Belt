@@ -1,0 +1,14 @@
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\bin\Debug\net8.0\Striped Yellow Belt.exe
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\bin\Debug\net8.0\Striped Yellow Belt.deps.json
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\bin\Debug\net8.0\Striped Yellow Belt.runtimeconfig.json
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\bin\Debug\net8.0\Striped Yellow Belt.dll
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\bin\Debug\net8.0\Striped Yellow Belt.pdb
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\obj\Debug\net8.0\Striped Yellow Belt.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\obj\Debug\net8.0\Striped Yellow Belt.AssemblyInfoInputs.cache
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\obj\Debug\net8.0\Striped Yellow Belt.AssemblyInfo.cs
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\obj\Debug\net8.0\Striped Yellow Belt.csproj.CoreCompileInputs.cache
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\obj\Debug\net8.0\Striped Yellow Belt.dll
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\obj\Debug\net8.0\refint\Striped Yellow Belt.dll
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\obj\Debug\net8.0\Striped Yellow Belt.pdb
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\obj\Debug\net8.0\Striped Yellow Belt.genruntimeconfig.cache
+C:\projects\Striped Yellow Belt\Striped Yellow Belt\obj\Debug\net8.0\ref\Striped Yellow Belt.dll
